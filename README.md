@@ -5,8 +5,8 @@
 
 - 🔭 I’m currently working on [Creative Computer: Bugs](https://github.com/BetaFoprhoton/CreativeComputerBugs)
 - 🔭 我现在正在开发 [Creative Computer: Bugs](https://github.com/BetaFoprhoton/CreativeComputerBugs)
-- 🌱 I’m currently planning to learn **Kotlin, C#, molecular dynamics, CSS, game engines(if I have time)**
-- 🌱 我现在正打算学习 **Kotlin, C#, 分子动力学, CSS, 游戏引擎(有时间的话)
+- 🌱 I’m currently planning to learn **Kotlin, C#, molecular dynamics, Rust, CSS, game engines(if I have time)**
+- 🌱 我现在正打算学习 Kotlin, C#, 分子动力学, Rust, CSS, 游戏引擎(有时间的话)
 - 👯 I’m looking to collaborate on **any interesting projects**
 - 👯 我想在**所有有趣的项目上**合作
 
