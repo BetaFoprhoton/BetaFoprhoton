@@ -9,6 +9,10 @@
 - 🌱 我现在正打算学习 Kotlin, C#, 分子动力学, Rust, CSS, 游戏引擎(有时间的话)
 - 👯 I’m looking to collaborate on **any interesting projects**
 - 👯 我想在**所有有趣的项目上**合作
+### 📫 Contact Me
+- Bilibili: [BetaFoprhoton](https://space.bilibili.com/1978193679)
+- QQ: 3352564708
+- E-mail: beta_forge1.node@qq.com
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
