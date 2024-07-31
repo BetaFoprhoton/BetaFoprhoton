@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=betafoprhoton&label=Profile%20views&color=0e75b6&style=flat" alt="betafoprhoton" /> </p>
 
 ### ⭐ About Me
-- 🔭 I’m currently working on [Creative Computer: Bugs](https://github.com/BetaFoprhoton/CreativeComputerBugs)
-- 🔭 我现在正在开发 [Creative Computer: Bugs](https://github.com/BetaFoprhoton/CreativeComputerBugs)
+- 🔭 I’m currently working on [Creative Computer: Bugs](https://github.com/BetaFoprhoton/CreativeComputerBugs) and [Molecular Construct](https://github.com/BetaFoprhoton/MolecularConstructor)
+- 🔭 我现在正在开发 [Creative Computer: Bugs](https://github.com/BetaFoprhoton/CreativeComputerBugs) 和 [Molecular Construct](https://github.com/BetaFoprhoton/MolecularConstructor)
 - 🌱 I’m currently planning to learn **Kotlin, C#, molecular dynamics, Rust, CSS, game engines(if I have time)**
 - 🌱 我现在正打算学习 Kotlin, C#, 分子动力学, Rust, CSS, 游戏引擎(有时间的话)
 - 👯 I’m looking to collaborate on **any interesting projects**
