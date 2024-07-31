@@ -15,7 +15,7 @@
 - QQ: 3352564708
 - E-mail: beta_forge1.node@qq.com
 
-### 🧰 Languages and Tools
+### ⚙️ Languages and Tools
 <p align="left">
 
 <a href="https://files.minecraftforge.net/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/1390178?s=48&v=4" alt="MinecraftForge" width="40" height="40"/> </a>
