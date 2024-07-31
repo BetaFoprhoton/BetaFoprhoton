@@ -2,7 +2,7 @@
 <h3 align="center">A developer/Minecraft lover from China.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=betafoprhoton&label=Profile%20views&color=0e75b6&style=flat" alt="betafoprhoton" /> </p>
-
+### ⭐ About Me
 - 🔭 I’m currently working on [Creative Computer: Bugs](https://github.com/BetaFoprhoton/CreativeComputerBugs)
 - 🔭 我现在正在开发 [Creative Computer: Bugs](https://github.com/BetaFoprhoton/CreativeComputerBugs)
 - 🌱 I’m currently planning to learn **Kotlin, C#, molecular dynamics, Rust, CSS, game engines(if I have time)**
