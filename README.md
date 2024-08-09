@@ -8,8 +8,8 @@
 - 🔭 我现在正在开发 [Realism Constructor](https://github.com/BetaFoprhoton/MolecularConstructor)
 - 🌱 I’m currently planning to learn **Kotlin, C#, molecular dynamics, Rust, CSS, game engines(if I have time)**
 - 🌱 我现在正打算学习 Kotlin, C#, 分子动力学, Rust, CSS, 游戏引擎(有时间的话)
-- 👯 I’m looking to collaborate on **any interesting projects**
-- 👯 我想在**所有有趣的项目上**合作
+- 👯 I’m looking to collaborate on **any interesting projects**, if you interested in my projects, please contact me!
+- 👯 我想在**任何有趣的项目**上合作，如果你对我在做的项目感兴趣，请随时联系我！
 ### 📫 Contact Me
 - Bilibili: [BetaFoprhoton](https://space.bilibili.com/1978193679)
 - QQ: 3352564708
