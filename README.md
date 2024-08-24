@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=betafoprhoton&label=Profile%20views&color=0e75b6&style=flat" alt="betafoprhoton" /> </p>
 
 ### ⭐ About Me
-- 🔭 I’m currently working on [Realism Constructor](https://github.com/BetaFoprhoton/MolecularConstructor)
-- 🔭 我现在正在开发 [Realism Constructor](https://github.com/BetaFoprhoton/MolecularConstructor)
+- 🔭 I’m currently learning **Jetbrains IDE Plugin Development**
+- 🔭 我现在正在学习 **Jetbrains IDE 插件开发**
 - 🌱 I’m currently planning to learn **Kotlin, C#, molecular dynamics, Rust, CSS, game engines(if I have time)**
 - 🌱 我现在正打算学习 Kotlin, C#, 分子动力学, Rust, CSS, 游戏引擎(有时间的话)
 - 👯 I’m looking to collaborate on **any interesting projects**, if you interested in my projects, please contact me!
