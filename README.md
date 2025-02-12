@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm BetaFoprhoton</h1>
-<h3 align="center">A passionate developer/Minecraft lover from China!</h3>
+<h3 align="center">A passionate developer from China!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=betafoprhoton&label=Profile%20views&color=0e75b6&style=flat" alt="betafoprhoton" /> </p>
 
 ### ⭐ About Me
-- 🔭 I’m currently learning **Jetbrains IDE Plugin Development**
+- 🔭 I'm currently learning **Jetbrains IDE Plugin Development**
 - 🔭 我现在正在学习 **Jetbrains IDE 插件开发**
-- 🌱 I’m currently planning to learn **Kotlin, C#, molecular dynamics, Rust, CSS, game engines(if I have time)**
+- 🌱 I'm currently planning to learn **Kotlin, C#, molecular dynamics, Rust, CSS, game engines(if I have time)**
 - 🌱 我现在正打算学习 Kotlin, C#, 分子动力学, Rust, CSS, 游戏引擎(有时间的话)
-- 👯 I’m looking to collaborate on **any interesting projects**, if you interested in my projects, please contact me!
+- 👯 I'm looking to collaborate on **any interesting projects**, if you interested in my projects, please contact me!
 - 👯 我想在**任何有趣的项目**上合作，如果你对我在做的项目感兴趣，请随时联系我！
+- ✨ Fun fact: I'm a Minecraft lover and War Thunder player!
+- ✨ 趣事：我是个Minecraft玩家和War Thunder玩家！
+
 ### 📫 Contact Me
 - Bilibili: [BetaFoprhoton](https://space.bilibili.com/1978193679)
 - QQ: 3352564708
