@@ -12,6 +12,7 @@
 - 👯 我想在**任何有趣的项目**上合作，如果你对我在做的项目感兴趣，请随时联系我！
 - ✨ Fun fact: I'm a Minecraft lover and War Thunder player!
 - ✨ 趣事：我是个Minecraft玩家和War Thunder玩家！
+- 🪧 Ich lerne Deutsch. 🇩🇪  Я тоже изучаю русский. 🇷🇺
 
 ### 📫 Contact Me
 - Bilibili: [BetaFoprhoton](https://space.bilibili.com/1978193679)
