@@ -13,7 +13,6 @@
 - ✨ Fun fact: I'm a Minecraft lover and War Thunder player!
 - ✨ 趣事：我是个Minecraft玩家和War Thunder玩家！
 - 🪧 Ich lerne Deutsch. 🇩🇪  Я тоже изучаю русский. 🇷🇺
-  🪧 我现在正在学习德语🇩🇪 和 俄语🇷🇺
 
 ### 📫 Contact Me
 - Bilibili: [BetaFoprhoton](https://space.bilibili.com/1978193679)
