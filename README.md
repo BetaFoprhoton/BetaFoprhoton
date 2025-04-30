@@ -7,7 +7,7 @@
 - 🔭 I'm currently learning **Powershell**
 - 🔭 我现在正在学习 **Powershell**
 - 🌱 I'm currently planning to learn **Kotlin, C#, Rust, Web devlopment, game engines(if I have time)**
-- 🌱 我现在正打算学习 Kotlin, C#, Rust, CSS, Web开发, 游戏引擎(如果我有时间的话)
+- 🌱 我现在正打算学习 Kotlin, C#, Rust, Web开发, 游戏引擎(如果我有时间的话)
 - 👯 I'm looking to collaborate on **any interesting projects**, if you interested in my projects, please contact me!
 - 👯 我想在**任何有趣的项目**上合作，如果你对我在做的项目感兴趣，请随时联系我！
 - ✨ Fun fact: I'm a Minecraft lover and War Thunder player!
