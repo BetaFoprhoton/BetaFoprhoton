@@ -10,8 +10,8 @@
 - 🌱 我现在正打算学习 Kotlin, C#, Rust, Web开发, 游戏引擎(如果我有时间的话)
 - 👯 I'm looking to collaborate on **any interesting projects**, if you interested in my projects, please contact me!
 - 👯 我想在**任何有趣的项目**上合作，如果你对我在做的项目感兴趣，请随时联系我！
-- ✨ Fun fact: I'm a Minecraft lover and War Thunder player!
-- ✨ 趣事：我是个Minecraft玩家和War Thunder玩家！
+- ✨ Fun fact: My favourite game is Minecraft!
+- ✨ 趣事：我最喜欢的游戏是Minecraft！
 - Ich lerne Deutsch. 🇩🇪  Я тоже изучаю русский. 🇷🇺
 
 ### 📫 Contact Me
