@@ -10,8 +10,8 @@
 - 🌱 我现在正打算学习 Kotlin, C#, Rust, Web开发, 游戏引擎(如果我有时间的话)
 - 👯 I'm looking to collaborate on **any interesting projects**, if you interested in my projects, please contact me!
 - 👯 我想在**任何有趣的项目**上合作，如果你对我在做的项目感兴趣，请随时联系我！
-- ✨ Fun fact: I like to open new projects instead of completing them.
-- ✨ 趣事：我喜欢挖坑而非填坑
+- ✨ Fun fact: I like to creating new projects (and ideas) instead of completing them. 
+- ✨ 有趣的事实： 我喜欢挖坑(和想点子)而非填我自己挖的坑。
 - Ich lerne Deutsch. 🇩🇪  Я тоже изучаю русский. 🇷🇺
 
 ### 📫 Contact Me
