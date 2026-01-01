@@ -19,19 +19,11 @@
 - Minecraft ID: BetaFoprhoton
 
 ### 🧰 Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,py,cs,cpp,dotnet,html,css,godot,idea,pycharm,vscode,blender,discord,github&theme=light)](https://skillicons.dev)
 <p align="left">
-
 <a href="https://files.minecraftforge.net/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/1390178?s=48&v=4" alt="MinecraftForge" width="40" height="40"/> </a>
-<a href="https://www.groovy-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg" alt="groovy" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.khronos.org/opengl/wiki/Core_Language_(GLSL)" target="_blank" rel="noreferrer"> <img src="https://www.khronos.org/opengl/wiki_opengl/images/Opengl_Tiny.gif" alt="glsl" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://dotnet.microsoft.com/zh-cn/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://neoforged.net/" target="_blank" rel="noreferrer"> <img src="https://neoforged.net/img/authors/neoforged.png" alt="Neoforge" width="40" height="40"/> </a>
+<a href="https://github.com/architectury" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/74373305?s=200&v=4" alt="Architectury" width="40" height="40"/> </a>
 <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/> </a>
 <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/zh-cn/media/logos/logo-powershell-core.svg" alt="powershell" width="40" height="40"/> </a>
 </p>
