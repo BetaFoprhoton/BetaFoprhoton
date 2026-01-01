@@ -4,14 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=betafoprhoton&label=Profile%20views&color=0e75b6&style=flat" alt="betafoprhoton" /> </p>
 
 ### ⭐ About Me
-- 🔭 I'm currently learning **Powershell**
-- 🔭 我现在正在学习 **Powershell**
 - 🌱 I'm currently planning to learn **Kotlin, C#, Rust, Web devlopment, game engines(if I have time)**
 - 🌱 我现在正打算学习 Kotlin, C#, Rust, Web开发, 游戏引擎(如果我有时间的话)
 - 👯 I'm looking to collaborate on **any interesting projects**, if you interested in my projects, please contact me!
 - 👯 我想在**任何有趣的项目**上合作，如果你对我在做的项目感兴趣，请随时联系我！
-- ✨ Fun fact: I like to creating new projects (and ideas) instead of completing them. 
-- ✨ 有趣的事实： 我喜欢挖坑(和想点子)而非填我自己挖的坑。
+- ✨ Fun fact: I like to creating new projects (and ideas) instead of completing them. I basically only write projects during holidays.
+- ✨ 有趣的事实： 我喜欢挖坑(和想点子)而非填我自己挖的坑。 我基本上只在节假日写项目。
 - Ich lerne Deutsch. 🇩🇪  Я тоже изучаю русский. 🇷🇺
 
 ### 📫 Contact Me
