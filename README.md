@@ -19,7 +19,7 @@
 - Minecraft ID: BetaFoprhoton
 
 ### 🧰 Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,py,cs,cpp,dotnet,html,css,godot,idea,pycharm,vscode,blender,discord,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,py,cs,dotnet,html,css,godot,idea,pycharm,rider,vscode,blender,discord,github&theme=light)](https://skillicons.dev)
 <p align="left">
 <a href="https://files.minecraftforge.net/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/1390178?s=48&v=4" alt="MinecraftForge" width="40" height="40"/> </a>
 <a href="https://neoforged.net/" target="_blank" rel="noreferrer"> <img src="https://neoforged.net/img/authors/neoforged.png" alt="Neoforge" width="40" height="40"/> </a>
@@ -28,5 +28,4 @@
 <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/zh-cn/media/logos/logo-powershell-core.svg" alt="powershell" width="40" height="40"/> </a>
 </p>
 
-<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BetaFoprhoton&hide=batchfile&layout=compact&theme=light"></img></a>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=betafoprhoton&show_icons=true&locale=en" alt="betafoprhoton" /></p>
+![Betafoprhoton's GitHub stats](https://github-readme-stats.vercel.app/api?username=betafoprhoton&show_icons=true&theme=radical)
