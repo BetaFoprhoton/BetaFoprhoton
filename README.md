@@ -28,4 +28,5 @@
 <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/zh-cn/media/logos/logo-powershell-core.svg" alt="powershell" width="40" height="40"/> </a>
 </p>
 
-[![BetaFoprhoton's GitHub stats](https://github-readme-stats.vercel.app/api?username=betafoprhoton)](https://github.com/betafoprhoton/github-readme-stats)
+[![BetaFoprhoton's GitHub stats](https://gh-stats.work/api?username=betafoprhoton)](https://github.com/betafoprhoton/github-readme-stats)
+[![Top Langs](https://gh-stats.work/api/top-langs/?username=betafoprhoton&layout=compact)](https://github.com/betafoprhoton/github-readme-stats)
