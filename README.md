@@ -11,11 +11,12 @@
 - ✨ Fun fact: I like to creating new projects (and ideas) instead of completing them. I basically only write projects during holidays.
 - ✨ 有趣的事实： 我喜欢挖坑(和想点子)而非填我自己挖的坑。 我基本上只在节假日写项目。
 - Ich lerne Deutsch. 🇩🇪  Я тоже изучаю русский. 🇷🇺
+- 🌐 Other profile: mechanical enthusiast, aviation enthusiast, modern history and military enthusiast.
+- 🌐 其他特征：机械迷，飞友，近代历史军事爱好者
 
 ### 📫 Contact Me
 - Bilibili: [BetaFoprhoton](https://space.bilibili.com/1978193679)
 - QQ: 3352564708
-- E-mail: beta_forge1.node@qq.com
 - Minecraft ID: BetaFoprhoton
 
 ### 🧰 Languages and Tools
